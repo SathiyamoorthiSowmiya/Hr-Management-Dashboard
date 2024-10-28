@@ -47,6 +47,11 @@ Navigate to http://localhost:5173/ in your web browser. Here, you can register a
     - Update any personal details and save changes.
 6. **Events**:
     - View the list of events created by the admin.
+  
+   ### **Demo Credential**
+   
+    https://www.youtube.com/watch?v=P_L-06VRcBI&list=PLnZgHKyxHOEBDDNhEhcx6SJBMa_uqfWcM
+   this project includes demo credential for demostration purpose only.
 
 
 
