@@ -3,6 +3,9 @@
 ## **Overview**
 This HR system is designed to manage various HR functions efficiently. The system has two main roles: Admin and Employee. The Admin side is responsible for managing events, leave requests, employees, and payroll (the payroll functionality is under development). The Employee side allows employees to manage their history, request leaves, update their details, and check events.
 
+Live Demo ==> https://main--staffsphere.netlify.app/dashboard
+Navigate to ==> http://localhost:5173/ in your web browser (Password should be six characters) Here, you can register an admin account to access the administrative features of the application.
+
 ## **Features**
 
 ### **Admin Side**
@@ -44,6 +47,11 @@ This HR system is designed to manage various HR functions efficiently. The syste
     - Update any personal details and save changes.
 6. **Events**:
     - View the list of events created by the admin.
+  
+   ### **Demo Credential**
+   
+    https://www.youtube.com/watch?v=P_L-06VRcBI&list=PLnZgHKyxHOEBDDNhEhcx6SJBMa_uqfWcM
+   this project includes demo credential for demostration purpose only.
 
 
 
